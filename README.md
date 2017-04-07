@@ -163,7 +163,10 @@ Isso ira nos remeter ao conceito de preposição.
 > 
 
 >
-> "As preposições são muito importantes na estrutura da língua pois estabelecem a coesão textual e possuem valores semânticos indispensáveis para a compreensão do texto."
+> "As preposições são muito 
+
+
+tantes na estrutura da língua pois estabelecem a coesão textual e possuem valores semânticos indispensáveis para a compreensão do texto."
 >
 
 *fonte: [http://www.infoescola.com/portugues/preposicao/](http://www.infoescola.com/portugues/preposicao/)*
@@ -275,7 +278,10 @@ const buttonReset = document
 > 
 > **\- Bem mais simples né?**
 > 
-> **Porém nada reusvel!** E provarei-te o porquê.
+> **Porém nada 
+
+
+svel!** E provarei-te o porquê.
 > 
 
 <br>
@@ -300,7 +306,7 @@ const buttonReset = document
 
 <br>
 
-Percebeu que temos muita duplicaçao de código? Logo as boas práticas no dizem que devemos encapsular essa lógica em uma funçao para poder reusa-la. 
+Percebeu que temos muita duplicação de código? Logo as boas práticas no dizem que devemos encapsular essa lógica em uma função para poder reusa-la. 
 
 <br>
 
@@ -369,7 +375,7 @@ const multipliquePor2 = (n) => n * 2
 
 <br>
 
-Ou melhorando ela para deixar mais reusavel:
+Ou melhorando ela para deixar mais reusável:
 
 ```js
 
@@ -381,7 +387,7 @@ const multipliquePor = ( multiplicador ) => (n) => n * multiplicador
 
 Percebeu que usamos a função `map` em um *array*, passando uma função como parâmetro do `map`, agora eu lhe pergunto:
 
-> **\- Quais dos códigos anteriores é mais legível e, o mais importante, reusavel?**
+> **\- Quais dos códigos anteriores é mais legível e, o mais importante, reusável?**
 
 
 

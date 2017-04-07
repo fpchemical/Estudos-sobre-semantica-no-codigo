@@ -80,7 +80,7 @@ button.addEventListener(`click`, () => {} )
 
 ```
 
-Por isso separei o evento `click` onde iremos utiliza-lo para criar uma oração.
+Por isso separei o evento `click`, pois iremos utiliza-lo para criar uma oração.
 
 > "A oração é uma unidade sintática. Trata-se de um enunciado linguístico cuja estrutura caracteriza-se, obrigatoriamente, pela presença de um verbo. Na verdade, a oração é caracterizada, sintaticamente, pela presença de um predicado, o qual é introduzido na língua portuguesa pela presença de um verbo. Geralmente, a oração apresenta um sujeito, termos essenciais, integrantes ou acessórios."
 

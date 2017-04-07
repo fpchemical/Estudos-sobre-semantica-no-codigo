@@ -82,7 +82,11 @@ button.addEventListener(`click`, () => {} )
 
 Por isso separei o evento `click` onde iremos utiliza-lo para criar uma oração.
 
-> "A oração é uma unidade sintática. Trata-se de um enunciado linguístico cuja estrutura caracteriza-se, obrigatoriamente, pela presença de um verbo. Na verdade, a oração é caracterizada, sintaticamente, pela presença de um predicado, o qual é introduzido na língua portuguesa pela presença de um verbo. Geralmente, a oração apresenta um sujeito, termos essenciais, integrantes ou acessórios."
+> "A oração é uma unidade sintática. Trata-se de um enunciado linguístico cuja estrutura caracteriza-se, obrigatoriamente, pela presença de um verbo. Na verdade, a oração é caracterizada, sintaticamente, pela presença de um predicado, o qual é introduzido na língua portuguesa pela presença de um verbo. Geralmente, a oração apre
+Fio tava esperando dar sexta pra já encomendar uma 5g lá com seu broder hj
+Pra já pagar aquela corrida passada do verde tb
+Demorou?
+Vja ai o qnt antes pra nois please q hj o dia começou cedo já já Hahahahhahahahhahahhasenta um sujeito, termos essenciais, integrantes ou acessórios."
 
 *fonte: [http://portugues.uol.com.br/gramatica/frase-oracao-periodo.html](http://portugues.uol.com.br/gramatica/frase-oracao-periodo.html)*
 
